@@ -1,0 +1,15 @@
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/zero/Documents/microsoftLearn/intro2_creacion_y_ejecucion_de_apps/proyecto/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
